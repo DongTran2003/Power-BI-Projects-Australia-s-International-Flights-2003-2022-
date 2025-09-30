@@ -20,9 +20,15 @@ This Power BI project analyzes international flights in and out of Australia bet
 - Dashboard Design: layout prototyped in Figma with a consistent color theme for clarity and storytelling.
 
 ## Project Demonstration
-
+Check out the following link to see the full video demonstration: 
 <div align="center">
-  <video src="Pics/Video_250929230803.mp4"  controls allowfullscreen></video>
+
+  <p align="center">
+  <a href="https://www.linkedin.com/posts/justin-tran-03012003vn_international-flights-to-from-australia-activity-7378427102154637312-tZ28?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEKzY_YBGrIoT9ILN6uiaajVetucTZLanJQ" target="_blank">
+    <img src="Pics/preview.gif" alt="My LinkedIn Dashboard Post" width="600"/>
+  </a>
+</p>
+
 
   <img src="Pics\Screenshot 2025-09-29 231426.png">
 
